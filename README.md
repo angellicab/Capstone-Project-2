@@ -4,7 +4,7 @@
 
 **Latar Belakang**
 
-Perusahaan ini adalah perusahaan yang bergerak di bidang teknologi dan menawarkan layanan Software as a Service (SaaS). Untuk meningkatkan performa sales dan profit, maka dilakukan analisis pada dataset untuk mendapatkan insight dan rekomendasi strategi.
+Perusahaan ini adalah perusahaan yang bergerak di bidang teknologi dan menawarkan produk Software as a Service (SaaS). Untuk meningkatkan performa sales dan profit, maka dilakukan analisis pada dataset untuk mendapatkan insight dan rekomendasi strategi.
 
 **Pernyataan Masalah**
 - Bagaimana tren sales dan profit berdasarkan quarter?
