@@ -3,9 +3,11 @@
 **Analisis Dataset SaaS Sales**
 
 **Latar Belakang**
+
 Perusahaan ini adalah perusahaan yang bergerak di bidang teknologi dan menawarkan layanan Software as a Service (SaaS). Untuk meningkatkan performa sales dan profit, maka dilakukan analisis pada dataset untuk mendapatkan insight dan rekomendasi strategi.
 
 **Pernyataan Masalah**
+
 1.a. Bagaimana tren sales dan profit berdasarkan quarter?
 1.b. Bagaimana korelasi Sales, Discount, Profit, dan Profit Margin?
 2.a. Bagaimana sales, profit, dan profit margin dari setiap produk?
@@ -14,6 +16,7 @@ Perusahaan ini adalah perusahaan yang bergerak di bidang teknologi dan menawarka
 4.b. Negara manakah yang memiliki profit dan profit margin terendah? 
 
 **Data Understanding and Cleaning**
+
 Dataset terdiri dari 19 kolom dan 9,994 baris.
 
 **Kesimpulan**
