@@ -7,13 +7,12 @@
 Perusahaan ini adalah perusahaan yang bergerak di bidang teknologi dan menawarkan layanan Software as a Service (SaaS). Untuk meningkatkan performa sales dan profit, maka dilakukan analisis pada dataset untuk mendapatkan insight dan rekomendasi strategi.
 
 **Pernyataan Masalah**
-
-1.a. Bagaimana tren sales dan profit berdasarkan quarter?
-1.b. Bagaimana korelasi Sales, Discount, Profit, dan Profit Margin?
-2.a. Bagaimana sales, profit, dan profit margin dari setiap produk?
-3.a. Pelanggan manakah yang paling sering melakukan pembelian?
-4.a. Negara manakah yang memiliki sales dan profit tertinggi?
-4.b. Negara manakah yang memiliki profit dan profit margin terendah? 
+- Bagaimana tren sales dan profit berdasarkan quarter?
+- Bagaimana korelasi Sales, Discount, Profit, dan Profit Margin?
+- Bagaimana sales, profit, dan profit margin dari setiap produk?
+- Pelanggan manakah yang paling sering melakukan pembelian?
+- Negara manakah yang memiliki sales dan profit tertinggi?
+- Negara manakah yang memiliki profit dan profit margin terendah? 
 
 **Data Understanding and Cleaning**
 
